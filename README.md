@@ -1,1 +1,1 @@
-# bazel-hello-world
+# bazel-typescript-hello-world
